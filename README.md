@@ -1,5 +1,1 @@
-# my-profile
-
-
-
-Hello! Welcome to my repository
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abel&size=30&duration=3000&pause=1000&color=00FFF4&width=904&height=100&lines=Hey!+Welcome+to+my+profile+%3AD;Feel+free+to+reach+out+if+you+want+to+work+on+a+project+%3A))](https://git.io/typing-svg)
